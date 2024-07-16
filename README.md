@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link to the solution](https://github.com/andychuks51/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link to the site](https://andychuks51.github.io/four-card-feature-section/)
 
 ## My process
 
